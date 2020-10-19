@@ -1,5 +1,5 @@
 {
-    "name": "light_sensor",
+    "name": "light_sensor2_test",
     "description": "",
     "dependencies": {
         "device": "*",
